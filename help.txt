@@ -1,1 +1,0 @@
-Make sure to extract external before you run DeepLearning.exe
